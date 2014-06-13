@@ -28,7 +28,7 @@ end
         <!-- ruby code is executed here -->
         <% @list_array.each do |el| %>
             <li>
-                <!-- content of ruby variable @list_array is sent here --/>
+                <!-- content of ruby variable @list_array is sent here -->
                 <%= @el %>
             </li>
         <%end%>
