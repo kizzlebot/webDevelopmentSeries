@@ -2,7 +2,7 @@
 
 
 - Create new rails project  
-`rails new <projectName>`
+`rails new <projectName>`  
 `cd <projectName>`
 
 - If you need to add gems edit the Gemfile, uncomment/add provided lines, then `bundle install`
