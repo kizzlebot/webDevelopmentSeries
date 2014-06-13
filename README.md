@@ -4,7 +4,7 @@
     `rails generate controller Logins index`
 2. View  
     `app/view/logins/index.html.erb`
-3. Model
+3. Model  
     `rails generate model Login username:string password:string`
 
 --------------------------------
