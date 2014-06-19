@@ -8,12 +8,14 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll GitHub
-author : @kizzlebot
-  name : James Choi
-  email : jchoi2012@knights.ucf.edu
-  github : kizzlebot
-  twitter : @kizzlebot
+title : Jekyll Bootstrap
+tagline: Site Tagline
+author :
+  name : Name Lastname
+  email : blah@email.test
+  github : username
+  twitter : username
+  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -85,7 +87,7 @@ JB :
       site_id : 123
     intensedebate :
       account : 123abc
-    facebook : heymancheckthisout
+    facebook :
       appid : 123
       num_posts: 5
       width: 580
